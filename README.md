@@ -1,2 +1,2 @@
 # Password-Generator
- Gerador de senhas
+ Gerador de senhas / Projeto de cunho acadêmico. 
